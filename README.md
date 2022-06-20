@@ -6,7 +6,7 @@ This project involves the implementation of BMFLC to estimate the voluntary and 
 2. Different forgetting factors were used to estimate the motion. 
 
 
-# Hand Tremor Motion for different forgetting factors
+# Hand Tremor Motion for Different Forgetting Factors
 
 ## Forgetting factor=1
 ![image](https://user-images.githubusercontent.com/69100847/174578832-942fd74c-0d03-4ead-8b51-d01c76e16134.png)
